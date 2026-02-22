@@ -1,4 +1,5 @@
 (() => {
+    console.log('YouTube Video Batch Publisher: https://github.com/pavnxet/YouTube-Video-Batch-Publisher');
     // -----------------------------------------------------------------
     // CONFIG (you're safe to edit this)
     // -----------------------------------------------------------------
@@ -20,22 +21,7 @@
     // END OF CONFIG (not safe to edit stuff below)
     // -----------------------------------------------------------------
 
-    // Art by Joan G. Stark
-    // .'"'.        ___,,,___        .'``.
-    // : (\  `."'"```         ```"'"-'  /) ;
-    //  :  \                         `./  .'
-    //   `.                            :.'
-    //     /        _         _        \
-    //    |         0}       {0         |
-    //    |         /         \         |
-    //    |        /           \        |
-    //    |       /             \       |
-    //     \     |      .-.      |     /
-    //      `.   | . . /   \ . . |   .'
-    //        `-._\.'.(     ).'./_.-'
-    //            `\'  `._.'  '/'
-    //              `. --'-- .'
-    //                `-...-'
+    // https://github.com/pavnxet/YouTube-Video-Batch-Publisher
 
 
 
